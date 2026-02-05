@@ -54,17 +54,46 @@
 <body>
 
 <h1>Poems</h1>
-<div class="tagline">A place for words that didn’t survive silence.</div>
+<div class="tagline">
+Welcome.<br>
+These are words that survived silence,<br>
+fragments of thought that refuse to be forgotten.<br>
+Step carefully, for each line is a shadow.<br>
+Let the poems speak what the night keeps hidden.
+</div>
 
 <div class="poem">
   <div class="title">Untitled</div>
   <p>
-I learned
-that silence is not empty—
+I learned  
+that silence is not empty—  
 
-it is full
-of things that refused to stay.
+it is full  
+of things that refused to stay.  
   </p>
+</div>
+
+<div class="poem">
+  <div class="title">Whispers</div>
+  <p>
+Some nights,  
+the air remembers what we forget.  
+
+Voices linger  
+between walls and worn-out dreams.  
+  </p>
+</div>
+
+<div class="poem">
+  <div class="title">Afterlight</div>
+  <p>
+When the world sleeps,  
+I write the things it cannot see.  
+
+Ink spills quietly,  
+like shadows chasing the last of the sun.  
+  </p>
+</div>  </p>
 </div>
 
 <footer>
