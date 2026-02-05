@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Poems</title>
+  <style>
+    body {
+      font-family: "Georgia", serif;
+      background-color: #0d0d0d;
+      color: #d6d6d6;
+      max-width: 720px;
+      margin: auto;
+      padding: 60px 30px;
+      line-height: 1.9;
+    }
+
+    h1 {
+      text-align: center;
+      font-weight: normal;
+      letter-spacing: 1px;
+      margin-bottom: 10px;
+    }
+
+    .tagline {
+      text-align: center;
+      font-size: 14px;
+      color: #888;
+      margin-bottom: 80px;
+      font-style: italic;
+    }
+
+    .poem {
+      margin-bottom: 80px;
+    }
+
+    .title {
+      font-size: 20px;
+      margin-bottom: 18px;
+      color: #fff;
+    }
+
+    p {
+      white-space: pre-line;
+    }
+
+    footer {
+      text-align: center;
+      margin-top: 120px;
+      font-size: 12px;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+
+<h1>Poems</h1>
+<div class="tagline">A place for words that didn’t survive silence.</div>
+
+<div class="poem">
+  <div class="title">Untitled</div>
+  <p>
+I learned
+that silence is not empty—
+
+it is full
+of things that refused to stay.
+  </p>
+</div>
+
+<footer>
+  © Emmanuel — all words kept intact.
+</footer>
+
+</body>
+</html>
